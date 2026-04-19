@@ -1,2 +1,0 @@
-# Recommendation_engines_group9
-Footballer scout recommendation engine project
